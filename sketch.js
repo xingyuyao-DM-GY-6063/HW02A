@@ -50,12 +50,7 @@ function setup() {
   rect(510,340,90,50);
   fill(221,212,194);
   rect(460,340,30,25);
-
   pop();
-
-
-
-
 }
 
 function draw() {
